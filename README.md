@@ -12,7 +12,7 @@ This app has been built by jquery, html,css
 
 ![Work Day Planner Preview](Assets/images/screen-shot1.PNG)
 
-**Note**: This a link to the actual website: [Work Day Planner Official Website](https://alsharifnahas.github.io/Code-Quiz/.)
+**Note**: This a link to the actual website: [Work Day Planner Official Website](https://alsharifnahas.github.io/WorkDay-EventPlanner/)
 
 ## Liecense
 
